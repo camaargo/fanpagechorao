@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Playfair Display", serif;
 }
 .cabecalho {
     background-color: #250101;
@@ -81,7 +81,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: #250101;
     text-align: center;
 }
 
